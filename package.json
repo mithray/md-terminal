@@ -1,0 +1,16 @@
+{
+  "name": "@mithray/md-terminal",
+  "version": "0.0.1",
+  "description": "",
+  "main": "markedCLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mithrayls <mithray@protonmail.com> (https://mithrayls.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "cli-marked": "^4.9.14",
+    "marked": "^0.7.0"
+  }
+}
