@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "cli-marked": "^4.9.14",
-    "marked": "^0.7.0"
+    "marked": "^4.0.10"
   }
 }
